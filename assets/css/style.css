@@ -1063,6 +1063,15 @@ section {
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
+.portfolio-details .portfolio-design-slider img {
+  width: 70%;
+}
+.portfolio-details .portfolio-service-slider img {
+  width: 100%;
+}
+.portfolio-details .portfolio-dev-slider img {
+  width: 50%;
+}
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
@@ -1116,6 +1125,7 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
